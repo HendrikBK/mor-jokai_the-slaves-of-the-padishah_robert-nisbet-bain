@@ -37,6 +37,9 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Prince Apafi</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta property="schema:abstract">Turkish control over Eastern Europe is in danger over conflict with the German Kaiser.</meta>
 		<dc:description>
 			&lt;p&gt;Michael Teleki, a Transylvanian noble and councilor to &lt;a href="https://standardebooks.org/collections/prince-apafi"&gt;Prince Apafi&lt;/a&gt;, is an ambitious and cunning politician, who seeks to increase his own power and social status. In order to do that, he attempts to manipulate members of the Ottoman Sultanate to attack Hungary, with hopes that he will become its Palatine.&lt;/p&gt;
